@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011556354939",
+    "firebase_url": "https://myoungstagram.firebaseio.com",
+    "project_id": "myoungstagram",
+    "storage_bucket": "myoungstagram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011556354939:android:97100725aabcb455accbde",
+        "android_client_info": {
+          "package_name": "com.example.myoungstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011556354939-fv6dave0481tctjpot010c0vhu4mirkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myoungstagram",
+            "certificate_hash": "5b01768db067995031be2933dc08d3dca714c927"
+          }
+        },
+        {
+          "client_id": "1011556354939-1cl5jetvhuth7r1agcbeqa2g2o3p0gpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2uuB8rxV0Ck7FOAQa401DGKUhnEA5iDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011556354939-1cl5jetvhuth7r1agcbeqa2g2o3p0gpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
